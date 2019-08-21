@@ -2,9 +2,19 @@
 <ui>
   <elements>
     <element>
-      <title>My title</title>
-      <button>My button</button>
-      <text>My text</text>
+      <name>myTitle</name>
+      <type>title</type>
+      <text>My title</text>
     </element>
+    <element>
+      <name>myButton</name>
+      <type>button</type>
+      <text>My button</text>
+    </element>  
+    <element>
+      <name>myText</name>
+      <type>text</type>
+      <text>My text</text>
+    </element>  
   </elements>
 </ui>
