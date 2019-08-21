@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<root>
-	<to>Me</to>
-	<from>You</from>
-	<message>a message</message>
-	<body>hi there</body>
-</root>
+<ui>
+  <elements>
+    <element>
+      <title>My title</title>
+      <button>My button</button>
+      <text>My text</text>
+    </element>
+  </elements>
+</ui>
